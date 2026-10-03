@@ -36,6 +36,7 @@ A collection of small front-end projects built with vanilla **HTML, CSS, and Jav
 | 24 | [Show Password Strength](./Show%20Password%20Strength) |
 | 25 | [Stopwatch](./Stopwatch) |
 | 26 | [To-Do List](./To-Do%20List) |
+| 27 | [Quiz App](./Quiz%20App) |
 
 ## 🛠️ Tech Stack
 
