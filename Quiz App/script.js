@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "Which is larget animal in the world?",
+        question: "Which is largest animal in the world?",
         answers: [
             { text: "Shark", correct: false},
             { text: "Blue whale", correct: true},
@@ -14,7 +14,7 @@ const questions = [
             { text: "Vatican City", correct: true},
             { text: "Bhutan", correct: false},
             { text: "Nepal", correct: false},
-            { text: "Shri Lanka", correct: false},
+            { text: "Sri Lanka", correct: false},
         ]
     },
     {
@@ -31,7 +31,7 @@ const questions = [
         answers: [
             { text: "Asia", correct: false},
             { text: "Australia", correct: true},
-            { text: "Arctic", correct: false},
+            { text: "Antarctica", correct: false},
             { text: "Africa", correct: false},
         ]
     }  
