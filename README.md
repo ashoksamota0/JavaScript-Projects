@@ -37,6 +37,8 @@ A collection of small front-end projects built with vanilla **HTML, CSS, and Jav
 | 25 | [Stopwatch](./Stopwatch) |
 | 26 | [To-Do List](./To-Do%20List) |
 | 27 | [Quiz App](./Quiz%20App) |
+| 28 | [2048 Game](./2048-game) |
+| 29 | [Habit Tracker](./Habit%20Tracker) |
 
 ## 🛠️ Tech Stack
 
