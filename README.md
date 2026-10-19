@@ -39,6 +39,9 @@ A collection of small front-end projects built with vanilla **HTML, CSS, and Jav
 | 27 | [Quiz App](./Quiz%20App) |
 | 28 | [2048 Game](./2048-game) |
 | 29 | [Habit Tracker](./Habit%20Tracker) |
+| 30 | [Atari game](./Atari%20game) |
+| 31 | [Bubble Pop](./Bubble%20Pop) |
+| 32 | [Cube Dash game](./Cube%20Dash%20game) |
 
 ## 🛠️ Tech Stack
 
