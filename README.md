@@ -42,6 +42,8 @@ A collection of small front-end projects built with vanilla **HTML, CSS, and Jav
 | 30 | [Atari game](./Atari%20game) |
 | 31 | [Bubble Pop](./Bubble%20Pop) |
 | 32 | [Cube Dash game](./Cube%20Dash%20game) |
+| 33 | [BMI Calculator](./BMI%20Calculator) |
+| 34 | [Brick Smash game](./Brick%20Smash%20game) |
 
 ## 🛠️ Tech Stack
 
